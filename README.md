@@ -160,3 +160,10 @@ w
 ```
 whoami
 ```
+
+14. dirs, pushd, popd
+```
+>> pushd /a/b/c
+>> popd +1
+https://www.tecmint.com/pushd-and-popd-linux-filesystem-navigation/
+```
